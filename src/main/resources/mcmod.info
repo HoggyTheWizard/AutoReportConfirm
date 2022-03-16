@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autoreportconfirm",
+  "name": "AutoReportConfirm",
+  "description": "A Minecraft mod for the Hypixel server that auto confirms chat reports.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HoggyTheWizard"],
+  "credits": "HoggyTheWizard",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
